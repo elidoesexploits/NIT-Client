@@ -1,6 +1,6 @@
-<h1><bold>**DOWNLOAD PROCEDURES**</bold><h1>
+<h3><bold>*DOWNLOAD PROCEDURES*</bold></h3>
 
-To correctly download this client:
+<h5>To correctly download this client:</h5>
 
 1. Open the .html client as raw.
 2. Once all the text has loaded, right click (or CTRL S).
